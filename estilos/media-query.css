@@ -8,7 +8,7 @@
     --cor04: #ADCCD9;
 }
 
-@media screen and (min-width: 780px) and (max-width: 992px) {
+@media screen and (min-width: 768px) and (max-width: 992px) {
     body {
         background-image: linear-gradient(to top, var(--cor01), var(--cor03));
     }
